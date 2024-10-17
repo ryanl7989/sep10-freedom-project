@@ -12,6 +12,7 @@ Outside of school, I have a few things that I have to do like playing Volleyball
 Focusing is an important skill that I have acquired. I usually get sidetracked while doing things like homework and start playing games, leaving me with lots of missing or incomplete work. Instead, now I put music on and try to stop myself from being distracted which has improved my work ethic. When my friends call, I tell them that I have to finish my work before playing with them instead of stopping what I was doing to play video games.
 <h1>Summary</h1>
 I am excited to learn and research more about using technology in architecture<br>
+
 [Next](entry02.md)
 
 [Home](../README.md)
