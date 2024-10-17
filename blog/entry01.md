@@ -9,7 +9,8 @@ Some of the skills that I have learned from researching this topic are Time mana
 <h3>Time management</h3>
 Outside of school I have a few things that I have to do like playing Volleyball and going to stength and conditioning club. I also have been getting more work as the school year has gone on so I have had to cut back on going to stength and conditioning somedays and have been focusing on doing work which will help me focus on finishing my work first.
 <h3>Focusing</h3>
-Focusing is an important skill that I have gotten. I usualy get sidetracked while doing things like homework and start playing games leaving me with lots of missing or incomplete work. Instead now I put music on and try to stop myself from being distracted which has improved my work ethic. When my firends call I tell them that I have to finnish my work before playing with them instead of stopping what I was doing to play video games.
+Focusing is an important skill that I have gotten. I usualy get sidetracked while doing things like homework and start playing games leaving me with lots of missing or incomplete work. Instead now I put music on and try to stop myself from being distracted which has improved my work ethic. When my firends call I tell them that I have to finnish my work before playing with them instead of stopping what I was doing to play video games.<br>
+
 [Next](entry02.md)
 
 [Home](../README.md)
