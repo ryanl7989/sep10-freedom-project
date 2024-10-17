@@ -6,9 +6,9 @@ The topic I have decided on is Architecture because my parents signed me and my 
 I am on the first step of the engineering design process, which is defining. First, I find what I want to use for my project. The next step is research where I am going to research architecture and find out more about it. Then I will research how technology is used in architecture and how it affects people. Some examples of how technology is used in architecture are AR, Artificial intelligence, and BIM.
 <h1>Skills</h1>
 Some of the skills that I have learned from researching this topic are Time management and Focusing.
-<h1>Time management</h1>
+<h3>Time management</h3>
 Outside of school, I have a few things that I have to do like playing Volleyball and going to strength and conditioning club. I have also been getting more work as the school year has gone on, so I have had to cut back on going to strength and conditioning some days and have been focusing on doing work which will help me focus on finishing my work first.
-<h1>Focusing</h1>
+<h3>Focusing</h3>
 Focusing is an important skill that I have acquired. I usually get sidetracked while doing things like homework and start playing games, leaving me with lots of missing or incomplete work. Instead, now I put music on and try to stop myself from being distracted which has improved my work ethic. When my friends call, I tell them that I have to finish my work before playing with them instead of stopping what I was doing to play video games.
 <h1>Summary</h1>
 I am excited to learn and research more about using technology in architecture
