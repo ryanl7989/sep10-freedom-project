@@ -2,8 +2,15 @@
 ##### 4/11/24
 
 # Context
-
-
+In my last entry I was figuring out what topic my project was going to be about. For this blog I reserched what technology is used in architecture. Some examples of these technology are:
+#### 3D Scanner
+3D scanners analyze a real world object or environment to collect data of its shape and its appearance.
+#### Laser Measurer
+A laser measurer is used to measure a space which is good for smaller projects when the 3D scanner takes too much time to set up.
+#### Laser Cutter
+The laser cutter cuts things to create items or products.
+#### Adjustable Desk
+It is a desk that can adjust to if you want to stand or sit.
 # Engineering Design Process
 
 
@@ -12,7 +19,8 @@ Some skills that I have learned while doing researching my topic was **How to Go
 
 ## How to google
 I think that I have gotten better on how to google because while I was searching for technology that is used in architecture I tried searching "architectural technology" but I couldn't find anything about what items they use but when I made a similar search "architecture gadgets" I found the information that I needed.
-##How to read
+
+## How to read
 I also feel like I have gotten better at how to read because I had to do a lot of research on techonology that architects use and now I understand how they work and what they do.
 
 [Previous](entry01.md) | [Next](entry03.md)
