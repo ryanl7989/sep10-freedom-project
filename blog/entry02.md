@@ -7,7 +7,7 @@ In my last entry I was figuring out what topic my project was going to be about.
 I am between the second and third step of the engineering design process. I have finished researching the information for my topic. Next I am going to brainstorm the possible solutions. For the next step I am going to barainstorm about how techonology can used in architecture.
 
 # Skills
-Some skills that I have learned while doing researching my topic was **How to Google** and **How to read**.
+Some skills that I have learned while doing researching my topic are **How to Google** and **How to read**.
 
 ### How to google
 I think that I have gotten better on how to google because while I was searching for technology that is used in architecture I tried searching "architectural technology" but I couldn't find anything about what items they use but when I made a similar search "architecture gadgets" I found the information that I needed.
