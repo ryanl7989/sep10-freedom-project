@@ -10,10 +10,10 @@ I am between the second and third step of the engineering design process. I have
 Some skills that I have learned while doing researching my topic are **How to Google** and **How to read**.
 
 ### How to google
-I think that I have gotten better on how to google because while I was searching for technology that is used in architecture I tried searching "architectural technology" but I couldn't find anything about what items they use but when I made a similar search "architecture gadgets" I found the information that I needed.
+I think that I have gotten better at how to Google because while I was searching for technology that is used in architecture, I tried searching "architectural technology" but I couldn't find anything about what items they use, but when I made a similar search, "architecture gadgets" I found the information that I needed.
 
 ### How to read
-I also feel like I have gotten better at how to read because I had to do a lot of research on techonology that architects use. I scrolled though multiple articles and looked for interesting technology but there was so many things that were common so I had to skim through most of them and I found interesting technologies that are used in architecture. 
+I also feel like I have gotten better at how to read because I had to do a lot of research on technology that architects use. I scrolled through multiple articles and looked for interesting technology, but there were so many things that were common, so I had to skim through most of them, and I found interesting technologies that are used in architecture. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
