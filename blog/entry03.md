@@ -8,8 +8,12 @@ In my last blog entry I was researching about existing techonology in architectu
 * You can interact with the hologram in any way you like and use different tools to change certain things.
 * It can store memory of what you change and can save at certain times on your computer.
 * You can send and receive information to anyone you like.
-* There is a website where you can send your ideas to and look at other people’s ideas.
+* There is a website or app where you can send your ideas to and look at other people’s ideas.
 * Cameras around the room to show the hologram and track where you are.
+My ideas for the app are:
+* You can save and edit muliple projects at a time.
+* You can test it in a test mode that will not change your real project but you can decide if you want to change it.
+* You can invite other poeple to help you in your projects.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
