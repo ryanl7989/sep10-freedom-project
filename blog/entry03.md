@@ -29,6 +29,7 @@ Some skills that I have learned include Communication and Creativity
 
 * Communication: I have talked with people who have similar topics as me and used their feedback to think of new ideas that I can use.
 * Creativity: I have been think of what new inovations I can add which had caused me to think outside the box and look at things in new ways.
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
