@@ -21,7 +21,7 @@ My ideas for the app are:
 
 ### Engineering Design Process
 
-I am currently on the fourth step of the engineering design process. I have already finished researching for exisiting arhictecture techology including the hardware and software and brainstormed for nonexistent ideas. I am making a plan on how to make and sort my website.
+I am currently between the third and fourth step of the engineering design process. I have already finished researching for exisiting arhictecture techology including the hardware and software. I am still brainstorming for nonexistent ideas using inspiration from older SEP10 freedom projects and by talking to my classmates that have similar topics as me. Soon I am going move onto the fourth step and make a plan.
 
 ### Skills
 
