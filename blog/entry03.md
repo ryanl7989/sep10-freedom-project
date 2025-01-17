@@ -21,12 +21,14 @@ My ideas for the app are:
 
 ### Engineering Design Process
 
-I am currently on the fourth step of the engineering design process. I have already finished researching for exisiting arhictecture techology including the hardware and software and brainstormed for nonexistent ideas. I am now planning new solutions to make my website.
+I am currently on the fourth step of the engineering design process. I have already finished researching for exisiting arhictecture techology including the hardware and software and brainstormed for nonexistent ideas. I am making a plan on how to make and sort my website.
 
 ### Skills
 
-Some skills that I have learned include Communication and Creativity because I have had to talk with people who have similar topics as me and think of new ideas that I can use which also caused me to use my creativity to think of new inventions that do not exist yet.
+Some skills that I have learned include Communication and Creativity
 
+* Communication: I have talked with people who have similar topics as me and used their feedback to think of new ideas that I can use.
+* Creativity: I have been think of what new inovations I can add which had caused me to think outside the box and look at things in new ways.
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
