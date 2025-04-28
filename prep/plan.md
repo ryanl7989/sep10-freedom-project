@@ -1,16 +1,25 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](Phone-Wireframe.png)
+* [Desktop](Computer-Wireframe.png)
 
 ## Colors
-* `#ABC123`
+* `black`
+* `white`
+* `gray`
 
 ## Fonts
-* [Text](URL)
+* [Georgia]
 
 ## Timeline
+* Create Containers and Navbar
+* Add acordian and start existing Hardware cards
+* Finish existing Hardware and Software cards.
+* Complete Future ideas section
+* Add content and pictures.
+* Add colors and make it look better.
+
 
 #### MVP
 
