@@ -1,0 +1,18 @@
+.navbar-text {
+    font-size: 18px;
+  }
+
+  nav {
+    margin-left: 40px;
+    margin-right: 40px;
+
+  }
+
+  .navbar{
+    background: white;
+  }
+
+ #carouselExampleAutoplaying {
+    margin-left: 40px;
+    margin-right: 40px;
+ }
