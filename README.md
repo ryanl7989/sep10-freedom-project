@@ -4,15 +4,15 @@ by **Ryan Lin**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**.
+For my project, I chose the topic of **Architecture**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **SASS** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://ryanl7989.github.io/sep10-freedom-project)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/14XA4R_0kakh0holVxwGrLoggI-W5F_-qUfFyoOzgEik/edit?slide=id.g35a05e41170_0_10#slide=id.g35a05e41170_0_10)
 
 ## Implications
 ##### PROS
@@ -31,6 +31,3 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
